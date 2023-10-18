@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AtividadeComplementarBoot.props" />
+</Project>
